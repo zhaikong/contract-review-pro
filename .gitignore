@@ -28,7 +28,6 @@ output/
 *.md
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -40,3 +39,5 @@ Thumbs.db
 
 # Logs
 *.log
+config.bat
+node_modules

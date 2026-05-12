@@ -3,6 +3,9 @@ Contract Review Pro - 主入口 V3.0
 专业合同审核 Skill，支持工作区配置、7步工作流、终稿三件套
 """
 
+import utils.http_session
+import utils.transport
+import utils.session
 import sys
 import json
 import csv
